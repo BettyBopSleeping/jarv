@@ -1,0 +1,23 @@
+{
+    "topics": {
+        "father": [
+            {
+                "text": "My father is Twistz",
+                "context": null,
+                "timestamp": 1743452008.3698552
+            }
+        ],
+        "what": [
+            {
+                "text": "is my name?, you are twistz, name",
+                "context": null,
+                "timestamp": 1743452365.649855
+            }
+        ]
+    },
+    "responses": {},
+    "metadata": {
+        "last_updated": 1743452365.649855,
+        "total_topics": 2
+    }
+}
